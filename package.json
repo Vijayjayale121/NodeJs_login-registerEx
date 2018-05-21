@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Node Js and Express js example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay Jayale",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bower": "^1.8.4",
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.3",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.2.0",
+    "install": "^0.11.0",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "mongoose": "^5.1.1",
+    "nodemon": "^1.17.4",
+    "pug": "^2.0.3"
+  }
+}
